@@ -4,18 +4,18 @@ A premium, modern, and responsive documentation portal built with **React**, **V
 
 Documentation Hub Preview](./public/vite.svg) (*Replace with actual screenshot if available*)
 
-## 🚀 Key Features
+## Key Features
 
-- **📘 Dynamic Documentation**: Browse and manage technical guides, API references, and architecture docs.
-- **🌗 Dark/Light Mode**: Fully supported theme toggle with persistence (remembers your preference).
-- **📱 Responsive Design**: optimized for Mobile, Tablet, and Desktop (with collapsible sidebar).
-- **📝 Smart Editor**: Built-in markdown editor for creating new content.
-- **📌 Small Notes**: Attach quick, sticky-note style insights to any document (max 50 words).
-- **💾 Export to Markdown**: Download any guide as a production-ready `.md` file.
-- **📦 Bulk Export**: Download the entire documentation set as a ZIP archive.
-- **⚡ High Performance**: Built on Vite for instant loading and hot module replacement (HMR).
+- **Dynamic Documentation**: Browse and manage technical guides, API references, and architecture docs.
+- **Dark/Light Mode**: Fully supported theme toggle with persistence (remembers your preference).
+- **Responsive Design**: optimized for Mobile, Tablet, and Desktop (with collapsible sidebar).
+- **Smart Editor**: Built-in markdown editor for creating new content.
+- **Small Notes**: Attach quick, sticky-note style insights to any document (max 50 words).
+- **Export to Markdown**: Download any guide as a production-ready `.md` file.
+- **Bulk Export**: Download the entire documentation set as a ZIP archive.
+- **High Performance**: Built on Vite for instant loading and hot module replacement (HMR).
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 18
 - **Build Tool**: Vite 5
@@ -23,7 +23,7 @@ Documentation Hub Preview](./public/vite.svg) (*Replace with actual screenshot i
 - **Icons**: Lucide React
 - **Utils**: JSZip (for bulk export)
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 Follow these steps to get the project running on your local machine.
 
@@ -88,7 +88,7 @@ saas-documentation-hub/
 └── package.json         # Project dependencies & scripts
 ```
 
-## 🎨 Configuration
+## Configuration
 
 ### Tailwind CSS
 The project uses a standard `tailwind.config.js` setup. Dark mode is configured to use the `class` strategy, allowing manual toggling via the UI.
@@ -96,7 +96,7 @@ The project uses a standard `tailwind.config.js` setup. Dark mode is configured 
 ### Port Configuration
 The dev server runs on port `5173` by default. You can change this in `vite.config.js` or by setting the `PORT` environment variable.
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -104,14 +104,11 @@ The dev server runs on port `5173` by default. You can change this in `vite.conf
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed by Manish Kumar**
+**Developed by Manish Kumar With Ai**
 
-# DocumentWebsitee
-
-# DocumentWebsitee
